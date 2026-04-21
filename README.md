@@ -33,9 +33,9 @@ researching and developing ai4science & world models at the technical frontier
 ---
 ### stack
 
-**languages** 'python' 'java' 'c' 'typescript'
+**languages** `python` `java` `c` `typescript`
 
-**misc** 'pytorch' 'aws' 'node.js' 'next.js'
+**misc** `pytorch` `aws` `node.js` `next.js`
 
 <!--
 **kokonut121/kokonut121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
