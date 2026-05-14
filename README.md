@@ -12,6 +12,7 @@ researching and developing ai4science & world models at the technical frontier
 | [Annotagent](https://github.com/PitchFork-Innovation/annotagent) | agentic annotation tool for arxiv research papers |
 | [MedSim](https://github.com/kokonut121/medsim) | agent swarm simulations on world model reconstructions for trauma center optimization & most innovative @ harvard hsil hackathon |
 | [ZombieSlayer](https://github.com/jerryjlwang/ZombieSlayer)| safeguarding agents from zombie prompt injections |
+| [Jarvis](https://github.com/v1hns/jarvis)| iron man inspired jarvis voice agent assistant for meta raybans built at the YC x voice agents hackathon |
 | [Mutorials](https://github.com/The-Mu-Foundation/Mutorials)| free, adaptive, open source science trainer for science students w/ 800+ monthly users |
 | [WP Film Coach](https://github.com/kokonut121/wp-film-coach) | play-by-play analysis for water polo game film with computer vision powered agents |
 
