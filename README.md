@@ -4,6 +4,8 @@ cs + neuro @ caltech
 
 researching and developing ai4science & world models at the technical frontier
 
+patrick [at] caltech [dot] edu
+
 ---
 ### current projects
 
