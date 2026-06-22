@@ -12,7 +12,8 @@ patrick [at] caltech [dot] edu
 | project | description |
 |---|---|
 | [Annotagent](https://github.com/PitchFork-Innovation/annotagent) | agentic annotation tool for arxiv research papers |
-| [MedSim](https://github.com/kokonut121/medsim) | agent swarm simulations on world model reconstructions for trauma center optimization & most innovative @ harvard hsil hackathon |
+| [StudForge](https://github.com/kokonut121/studforge) | modular environment compiler for robotic swarm simulations (berkeley ai hackathon finalist)|
+| [MedSim](https://github.com/kokonut121/medsim) | agent swarm simulations on world model reconstructions for trauma center optimization (most innovative @ harvard hsil hackathon) |
 | [ZombieSlayer](https://github.com/jerryjlwang/ZombieSlayer)| safeguarding agents from zombie prompt injections |
 | [Jarvis](https://github.com/v1hns/jarvis)| iron man inspired jarvis voice agent assistant for meta raybans built at the YC x voice agents hackathon |
 | [Mutorials](https://github.com/The-Mu-Foundation/Mutorials)| free, adaptive, open source science trainer for science students w/ 800+ monthly users |
